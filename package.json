@@ -5,6 +5,6 @@
   "devDependencies": {
   },
   "scripts": {
-    "postinstall": "bash postinstall.sh"
+    "preinstall": "bash postinstall.sh"
   }
 }
